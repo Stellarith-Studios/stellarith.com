@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stardust Engine :: Stellarith Studios</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Akt:wght@100..900&display=swap" rel="stylesheet">
+
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+        <link rel="stylesheet" href="page.css">
+    </head>
+    <body>
+        <div class="flexcol">
+            <h1>Stardust Engine</h1>
+            <h2>Minimal, multi-threaded, GPU structure focused, scriptable game engine. Excellent for multi-paradigm games where multiple worlds or dimensions need to run simultaneously. Designed for Stellarith Studios' own games.</h2>
+        </div>
+    </body>
+</html>
